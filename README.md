@@ -1,4 +1,4 @@
-# mcp4linux
+# mcplus4linux
 Minecraft Plus! for linux (and other platforms)
 
 ----
