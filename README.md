@@ -1,11 +1,11 @@
 # mcp4linux
 Minecraft Plus! for linux (and other platforms)
 
----
+----
 
 Ready-to-use releases can be found on the [releases page](https://github.com/iAmInActions/mcp4linux/releases/).
 
----
+----
 
 Building from source:
 
