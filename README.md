@@ -5,6 +5,11 @@ Minecraft Plus! for linux (and other platforms)
 
 Ready-to-use releases can be found on the [releases page](https://github.com/iAmInActions/mcp4linux/releases/).
 
+If you want the screensaver to automatically start after inactivity, please run the following command:
+```
+wget -qO- https://raw.githubusercontent.com/iAmInActions/mcplus4linux/main/service/install.sh | bash
+```
+
 ----
 
 Building from source:
