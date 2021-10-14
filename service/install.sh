@@ -6,7 +6,7 @@ sudo apt install -y xscreensaver wget perl
 
 # Download and copy service:
 
-cd tmp
+cd /tmp
 wget https://raw.githubusercontent.com/iAmInActions/mcplus4linux/main/service/mcplus4linux-service.perl
 sudo cp ./mcplus4linux-service.perl /usr/local/bin/mcplus4linux-service.perl
 sudo chmod +x /usr/local/bin/mcplus4linux-service.perl
