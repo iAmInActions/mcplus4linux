@@ -2,7 +2,7 @@
 
 # Make sure dependencies are installed:
 sudo apt update
-sudo apt install -y xscreensaver wget
+sudo apt install -y xscreensaver wget perl
 
 # Download and copy service:
 
